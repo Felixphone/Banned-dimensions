@@ -1,0 +1,1 @@
+scoreboard players set GlobalStatusHolder OverworldEnabled 0
