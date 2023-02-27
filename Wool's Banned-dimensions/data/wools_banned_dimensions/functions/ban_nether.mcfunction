@@ -1,1 +1,0 @@
-scoreboard players set GlobalStatusHolder NetherEnabled 0
