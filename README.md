@@ -1,4 +1,4 @@
-# Wool-s-Banned-dimensions
+# Banned-dimensions
 A datapack to prevent players entering certain dimensions. All options can be configured 
 
 Feel free to make any changes or share with friends!
